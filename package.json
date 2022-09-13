@@ -1,0 +1,8 @@
+{
+  "name": "my-vitepress-package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:yjj-web/yjj-web.github.io.git",
+  "author": "袁明冲 <1055787165@qq.com>",
+  "license": "MIT"
+}
