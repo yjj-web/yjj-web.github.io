@@ -2,12 +2,13 @@
  * @Author: YuanJiuJiu
  * @Date: 2022-09-13 14:13:18
  * @LastEditors: YuanJiuJiu
- * @LastEditTime: 2022-09-13 14:13:18
+ * @LastEditTime: 2022-09-13 14:35:42
  * @Description: 请填写描述
  */
 export default {
   title: '袁纠纠', //站点标题
   description: '前端知识', //mate标签description，多用于搜索引擎抓取摘要
+  base: './',
   themeConfig: {
     siteTitle: "袁纠纠",
     logo: "/logo.png",
